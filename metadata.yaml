@@ -1,0 +1,29 @@
+_repo: Remarks-on-some-fossil-impressions-in-the-sandstone-rocks-of-Connecticut-River_34056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warren, John Collins
+    birthdate: 1778
+    deathdate: 1856
+    gutenberg_agent_id: '32264'
+    url: http://www.gutenberg.org/2009/agents/32264
+    wikipedia: http://en.wikipedia.org/wiki/John_Collins_Warren
+description: ''
+gutenberg_issued: '2010-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34056'
+  lccn: '12019261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Footprints, Fossil -- Connecticut River Valley'
+- !lcc 'QE'
+- !lcsh 'Paleontology -- Connecticut River Valley'
+title: Remarks on some fossil impressions in the sandstone rocks of Connecticut River
+url: http://www.gutenberg.org/ebooks/34056
